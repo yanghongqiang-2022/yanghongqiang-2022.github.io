@@ -4,6 +4,7 @@
 var proxy = "SOCKS5 127.0.0.1:10809;";
 
 var rules = [
+  "||live.com",
   "||6949.cc",
   "||roadmap.sh",
   "||wiktionary.org",
