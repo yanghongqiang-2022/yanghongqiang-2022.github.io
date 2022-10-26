@@ -4,6 +4,7 @@
 var proxy = "SOCKS5 127.0.0.1:10809;";
 
 var rules = [
+  "||gravatar.com",
   "||olehdtv.com",
   "||curl.se",
   "||githubusercontent.com",
